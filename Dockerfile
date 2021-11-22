@@ -1,4 +1,4 @@
-FROM docker pull botpress/server:v12_24_0
+FROM botpress/server:v12_24_0
 
 # ARG BP_MODULE_NLU_DUCKLINGURL=http://localhost:8000 
 # ARG BP_MODULE_NLU_LANGUAGESOURCES='[{ "endpoint": "http://localhost:3100"}]' 
